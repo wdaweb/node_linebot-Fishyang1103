@@ -23,4 +23,4 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [儲存庫](https://github.com/)
+- [遇見咖啡 ☕](https://github.com/Fishyang1103/LineCoffee)
